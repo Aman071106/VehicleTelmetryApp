@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "587255795451",
+    "firebase_url": "https://vehicletelemetryapp-default-rtdb.firebaseio.com",
+    "project_id": "vehicletelemetryapp",
+    "storage_bucket": "vehicletelemetryapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587255795451:android:771727a52b739b81096a5e",
+        "android_client_info": {
+          "package_name": "com.example.vehicletelemetry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD27Y60UxPnV79O1ghWaxJGodDCxOI8o34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
