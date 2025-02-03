@@ -49,7 +49,26 @@
 ---
 
 ## 📂 Folder Structure
-VehicleTelemetryApp/ ├── home.jpg ├── app/ │ ├── src/ │ │ ├── main/ │ │ │ ├── java/ │ │ │ ├── res/ │ │ │ │ ├── drawable/ │ │ │ │ ├── layout/ │ │ │ │ ├── values/ │ │ │ ├── AndroidManifest.xml ├── build.gradle ├── settings.gradle ├── local.properties ├── .gitignore ├── README.md └── LICENSE
+## 📂 Folder Structure
+
+| **Folder/File**                             | **Description**                                      |
+|---------------------------------------------|------------------------------------------------------|
+| `home.jpg`                                  | Home screen UI image                                 |
+| `app/`                                      | Main application source code                         |
+| `├── src/`                                  | Main source folder for app                          |
+| `│   ├── main/`                             | Main source folder                                   |
+| `│   │   ├── java/`                         | Java or Kotlin source files                          |
+| `│   │   ├── res/`                          | Resources such as layouts, strings, images, etc.     |
+| `│   │   │   ├── drawable/`                 | Image resources                                      |
+| `│   │   │   ├── layout/`                   | XML layout files                                     |
+| `│   │   │   ├── values/`                   | XML values like strings, colors, themes              |
+| `│   │   ├── AndroidManifest.xml`           | Manifest file for app configuration                  |
+| `build.gradle`                              | Top-level Gradle configuration file                  |
+| `settings.gradle`                           | Gradle settings file                                 |
+| `local.properties`                          | Local properties like API keys                       |
+| `.gitignore`                                | Git ignore file to exclude files from version control|
+| `README.md`                                 | Project documentation (you are reading this now!)    |
+| `LICENSE`                                   | License file for project usage                       |
 
 
 
