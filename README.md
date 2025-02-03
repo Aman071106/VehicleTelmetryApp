@@ -50,22 +50,23 @@
 
 ## 📂 Folder Structure
 VehicleTelemetryApp/
-├── home.jpg           # Home screen UI image
-├── app/                   # Main application source code
-│   ├── src/               # Main source folder for app
-│   │   ├── main/          # Main source folder
-│   │   │   ├── java/      # Java or Kotlin source files
-│   │   │   ├── res/       # Resources such as layouts, strings, images, etc.
-│   │   │   │   ├── drawable/  # Image resources
-│   │   │   │   ├── layout/    # XML layout files
-│   │   │   │   ├── values/    # XML values like strings, colors, themes
-│   │   │   ├── AndroidManifest.xml  # Manifest file for app configuration
-├── build.gradle           # Top-level Gradle configuration file
-├── settings.gradle        # Gradle settings file
-├── local.properties       # Local properties like API keys
-├── .gitignore             # Git ignore file to exclude files from version control
-├── README.md              # Project documentation (you are reading this now!)
-└── LICENSE                # License file for project usage
+├── home.jpg                # Home screen UI image
+├── app/                    # Main application source code
+│   ├── src/                # Main source folder for app
+│   │   ├── main/           # Main source folder
+│   │   │   ├── java/       # Java or Kotlin source files
+│   │   │   ├── res/        # Resources such as layouts, strings, images, etc.
+│   │   │   │   ├── drawable/ # Image resources
+│   │   │   │   ├── layout/  # XML layout files
+│   │   │   │   ├── values/  # XML values like strings, colors, themes
+│   │   │   ├── AndroidManifest.xml # Manifest file for app configuration
+├── build.gradle            # Top-level Gradle configuration file
+├── settings.gradle         # Gradle settings file
+├── local.properties        # Local properties like API keys
+├── .gitignore              # Git ignore file to exclude files from version control
+├── README.md               # Project documentation (you are reading this now!)
+└── LICENSE                 # License file for project usage
+
 
 🎯 How to Run the App
 Run on Emulator/Device:
@@ -75,6 +76,7 @@ Choose an emulator or connect a physical device.
 App Features:
 
 The app will display real-time vehicle telemetry data such as speed, temperature, location, fuel levels, and tire pressure.
+
 
 ## 📜 License
 
